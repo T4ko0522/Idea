@@ -10,6 +10,7 @@
 
 SteamVRオーバーレイの実装  
 [UnityでつくるSteamVRオーバーレイアプリケーション](https://zenn.dev/kurohuku/books/a082c5728cc1f6/viewer/introduction)  
+[VRCX/Dotnet/Overlay](https://github.com/vrcx-team/VRCX/tree/59d3ead781c0aa548d4bedd7343b4a204dfd0eb5/Dotnet/Overlay)
 
 VRChat APIの利用  
 [VRChat API Docs](https://vrchatapi.github.io/)  
