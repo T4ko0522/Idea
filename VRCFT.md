@@ -19,5 +19,5 @@ VRChat APIの利用
 DiscordへのWebhook通知  
 [PythonからDiscord Webhookを利用する](https://zenn.dev/karaage0703/articles/926f18ba04e093)  
 
-Windows通知の実装
+Windows通知の実装  
 [WindowsのPythonでデスクトップ通知(トースト)作ってみた【WinRT】](https://qiita.com/relu/items/51e89f2346b5fd7ed49d)
